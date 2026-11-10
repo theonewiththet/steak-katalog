@@ -4,5 +4,31 @@
     "url": "https://releases.wildfiregames.com/0ad-0.28.0-win64.exe",
     "cover": "",
     "category": "Strategie"
+  },
+  {
+    "name": "Mindustry",
+    "url": "https://anuke.itch.io/mindustry/download/eyJpZCI6MjU2MzE3LCJleHBpcmVzIjoxNzY1MzQ2MjU2fQ==.zip",
+    "cover": "",
+    "category": "Strategie"
+  },
+  {
+    "name": "OpenTTD",
+    "url": "https://cdn.openttd.org/openttd-releases/15.3/openttd-15.3-windows-win64.zip",
+    "cover": "",
+    "category": "Simulation"
+  },
+  {
+    "name": "SuperTuxKart",
+    "url": "https://github.com/supertuxkart/stk-code/releases/download/1.5/SuperTuxKart-1.5-win.zip",
+    "cover": "",
+    "category": "Rennspiel"
+  },
+  {
+    "name": "Cube 2: Sauerbraten",
+    "url": "https://sourceforge.net/projects/sauerbraten/files/sauerbraten/2020_11_29/sauerbraten_2020_12_21_windows.exe/download",
+    "cover": "",
+    
+    "category": "Shooter"
   }
+]
 ]
