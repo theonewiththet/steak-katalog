@@ -22,5 +22,41 @@
     "url": "https://github.com/supertuxkart/stk-code/releases/download/1.5/SuperTuxKart-1.5-win.zip",
     "cover": "",
     "category": "Rennspiel"
+  },
+  {
+    "name": "The Battle for Wesnoth",
+    "url": "https://sourceforge.net/projects/wesnoth/files/wesnoth-1.18.4/wesnoth-1.18.4-win64.exe/download",
+    "cover": "",
+    "category": "Strategie"
+  },
+  {
+    "name": "OpenTyrian",
+    "url": "https://github.com/opentyrian/opentyrian/releases/download/v2.1.20260913/opentyrian-2.1.20260913-win32.zip",
+    "cover": "",
+    "category": "Arcade"
+  },
+  {
+    "name": "Shattered Pixel Dungeon",
+    "url": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v3.3.8/ShatteredPD-v3.3.8-Windows.zip",
+    "cover": "",
+    "category": "Roguelike"
+  },
+  {
+    "name": "Veloren",
+    "url": "https://www.izzygames.com/download/veloren",
+    "cover": "",
+    "category": "RPG"
+  },
+  {
+    "name": "Quetoo",
+    "url": "https://github.com/jdolan/quetoo/releases/download/v1.0.136/quetoo-x86_64-pc-windows.zip",
+    "cover": "",
+    "category": "Shooter"
+  },
+  {
+    "name": "Gang Garrison 2",
+    "url": "https://www.ganggarrison.com/files/Gang%20Garrison%202%20v2.9.2.zip",
+    "cover": "",
+    "category": "Shooter"
   }
 ]
